@@ -1,1 +1,1 @@
-# -java_algorithmic_test
+# java_algorithmic_test
